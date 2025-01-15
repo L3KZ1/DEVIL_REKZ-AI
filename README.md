@@ -1,5 +1,5 @@
 # DEVIL_REKZ-AI
-1337
+
 #include <vector>
 #include <memory>
 #include <cmath>
